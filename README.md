@@ -1,6 +1,6 @@
 # easy-simple-email-reporting
 
-easy-simple-email-reporting.py is a tool that helps you create simple, easy-to-read reports for email phishing events and incidents. You provide the tool with an .eml file, and it extracts relevant information from the email from a reporting perspective. It then generates a report template and saves it using the naming convention report-<filename>.eml.txt.
+easy-simple-email-reporting.py is a tool that helps you create simple, easy-to-read reports for email phishing events and incidents. You provide the tool with an .eml file, and it extracts relevant information from the email from a reporting perspective. It then generates a report template and saves it using the naming convention report-filename.eml.txt.
 
 The generated report can be further expanded with additional details, such as a description of the overall situation, investigation findings, or actions taken during the incident response process.
 
